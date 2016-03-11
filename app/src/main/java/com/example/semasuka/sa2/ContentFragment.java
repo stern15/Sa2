@@ -1,4 +1,4 @@
-package yalantis.com.sidemenu.sample.fragment;
+package com.example.semasuka.sa2;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
@@ -11,7 +11,6 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 
 import yalantis.com.sidemenu.interfaces.ScreenShotable;
-import yalantis.com.sidemenu.sample.R;
 
 /**
  * Created by Konstantin on 22.12.2014.
